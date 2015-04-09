@@ -1,0 +1,15 @@
+/*
+ * HCLAhb.h
+ *
+ *  Created on: 09-Apr-2015
+ *      Author: pragnajit.d
+ */
+
+#ifndef HCLIPCOMPONENTS_INTERCONNECT_AMBA_AHB_INC_HCLAHB_H_
+#define HCLIPCOMPONENTS_INTERCONNECT_AMBA_AHB_INC_HCLAHB_H_
+
+
+
+
+
+#endif /* HCLIPCOMPONENTS_INTERCONNECT_AMBA_AHB_INC_HCLAHB_H_ */

@@ -1,0 +1,15 @@
+/*
+ * PL011.h
+ *
+ *  Created on: 09-Apr-2015
+ *      Author: pragnajit.d
+ */
+
+#ifndef HCLIPCOMPONENTS_PERIPHERALS_UART_INC_HCLPL011_H_
+#define HCLIPCOMPONENTS_PERIPHERALS_UART_INC_HCLPL011_H_
+
+
+
+
+
+#endif /* HCLIPCOMPONENTS_PERIPHERALS_UART_INC_HCLPL011_H_ */
